@@ -40,12 +40,13 @@
     "bugs": "https://github.com/mityalebedev/The-Shell/issues",
     "contributors": "https://github.com/mityalebedev/The-Shell/graphs/contributors",
     "devDependencies": {
-        "browser-sync": "^2.26.3",
-        "gulp": "^4.0.0",
-        "gulp-autoprefixer": "^6.0.0",
-        "gulp-sass": "^4.0.2",
-        "gulp-sourcemaps": "^2.6.4",
-        "gulp-zip": "^4.2.0"
+        "browser-sync": "^3.0.4",
+        "gulp": "^5.0.1",
+        "gulp-autoprefixer": "^8.0.0",
+        "gulp-sass": "^6.0.1",
+        "gulp-sourcemaps": "^3.0.0",
+        "gulp-zip": "^5.1.0",
+        "sass": "^1.102.0"
     },
     "config": {
         "posts_per_page": 5
